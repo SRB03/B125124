@@ -1,3 +1,8 @@
 # Executables
 *.exe
 *.out
+
+# Other lab test PDFs..
+Questions/OOP_LAB_TEST_01_B1_SET_A.pdf
+Questions/OOP_LAB_TEST_01_B1_SET_B.pdf
+Questions/OOP_LAB_TEST_01_B2_SET_A.pdf
